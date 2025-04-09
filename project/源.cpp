@@ -21,6 +21,11 @@ void show_photo() {
 }
 int visited[51] = { 0 };
 map<string, string>Curriculum;
+string Monday[4] = { "Java","Java","database","database" };
+string Tuesday[4] = { "os","111","maogai","111" };
+string Wednesday[4] = { "data_structure","data_structure","database","network" };
+string Thursday[5] = { "111","111","111","111","health" };
+string Friday[4] = { "os","network","111" };
 int main() {
     
     cv::utils::logging::setLogLevel(cv::utils::logging::LOG_LEVEL_SILENT); //禁用opencv的日志
@@ -35,6 +40,7 @@ int main() {
     Curriculum.insert(pair<string, string>("maogai", "bowen"));
     Curriculum.insert(pair<string, string>("Java", "shenxing"));
     Curriculum.insert(pair<string, string>("database", "bozhi"));
+    Curriculum.insert(pair<string, string>("health", "bozhi"));
 
     cout << "the image size is 905*600" << endl;
 
@@ -247,9 +253,19 @@ int main() {
     }
     case 5: {
         start5:
-        cout << "enter current curriculum and enter your next curriculum" << endl;
+        cout << "What day is it today,and what period is this" << endl;
+        int week, jie;
         string curriculum1, curriculum2;
-        cin >> curriculum1 >> curriculum2;
+        cin >> week >> jie;
+        switch (week)
+        {
+        case 1: curriculum1 = Monday[jie - 1]; curriculum2 = Monday[jie]; break;
+        case 2: curriculum1 = Tuesday[jie - 1]; curriculum2 = Tuesday[jie]; break;
+        case 3: curriculum1 = Wednesday[jie - 1]; curriculum2 = Wednesday[jie]; break;
+        case 4: curriculum1 = Thursday[jie - 1]; curriculum2 = Thursday[jie]; break;
+        case 5: curriculum1 = Friday[jie - 1]; curriculum2 = Friday[jie]; break;
+        }
+        
         double distance = 0;
         map<string, string>::iterator it;
         it = Curriculum.find(curriculum1);
