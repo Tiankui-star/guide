@@ -1,133 +1,133 @@
-﻿  源.cpp
-D:\test\project\project\源.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-D:\test\project\project\源.cpp(125,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(125,30): warning C4244:         with
-D:\test\project\project\源.cpp(125,30): warning C4244:         [
-D:\test\project\project\源.cpp(125,30): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(125,30): warning C4244:         ]
-D:\test\project\project\源.cpp(125,26): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(125,26): warning C4244:         with
-D:\test\project\project\源.cpp(125,26): warning C4244:         [
-D:\test\project\project\源.cpp(125,26): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(125,26): warning C4244:         ]
-D:\test\project\project\源.cpp(132,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(132,30): warning C4244:         with
-D:\test\project\project\源.cpp(132,30): warning C4244:         [
-D:\test\project\project\源.cpp(132,30): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(132,30): warning C4244:         ]
-D:\test\project\project\源.cpp(132,26): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(132,26): warning C4244:         with
-D:\test\project\project\源.cpp(132,26): warning C4244:         [
-D:\test\project\project\源.cpp(132,26): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(132,26): warning C4244:         ]
-D:\test\project\project\源.cpp(137,67): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(137,67): warning C4244:         with
-D:\test\project\project\源.cpp(137,67): warning C4244:         [
-D:\test\project\project\源.cpp(137,67): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(137,67): warning C4244:         ]
-D:\test\project\project\源.cpp(137,45): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(137,45): warning C4244:         with
-D:\test\project\project\源.cpp(137,45): warning C4244:         [
-D:\test\project\project\源.cpp(137,45): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(137,45): warning C4244:         ]
-D:\test\project\project\源.cpp(138,65): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(138,65): warning C4244:         with
-D:\test\project\project\源.cpp(138,65): warning C4244:         [
-D:\test\project\project\源.cpp(138,65): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(138,65): warning C4244:         ]
-D:\test\project\project\源.cpp(138,44): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(138,44): warning C4244:         with
-D:\test\project\project\源.cpp(138,44): warning C4244:         [
-D:\test\project\project\源.cpp(138,44): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(138,44): warning C4244:         ]
-D:\test\project\project\源.cpp(194,34): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(194,34): warning C4244:         with
-D:\test\project\project\源.cpp(194,34): warning C4244:         [
-D:\test\project\project\源.cpp(194,34): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(194,34): warning C4244:         ]
-D:\test\project\project\源.cpp(194,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(194,30): warning C4244:         with
-D:\test\project\project\源.cpp(194,30): warning C4244:         [
-D:\test\project\project\源.cpp(194,30): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(194,30): warning C4244:         ]
-D:\test\project\project\源.cpp(201,34): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(201,34): warning C4244:         with
-D:\test\project\project\源.cpp(201,34): warning C4244:         [
-D:\test\project\project\源.cpp(201,34): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(201,34): warning C4244:         ]
-D:\test\project\project\源.cpp(201,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(201,30): warning C4244:         with
-D:\test\project\project\源.cpp(201,30): warning C4244:         [
-D:\test\project\project\源.cpp(201,30): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(201,30): warning C4244:         ]
-D:\test\project\project\源.cpp(214,77): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(214,77): warning C4244:         with
-D:\test\project\project\源.cpp(214,77): warning C4244:         [
-D:\test\project\project\源.cpp(214,77): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(214,77): warning C4244:         ]
-D:\test\project\project\源.cpp(214,56): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(214,56): warning C4244:         with
-D:\test\project\project\源.cpp(214,56): warning C4244:         [
-D:\test\project\project\源.cpp(214,56): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(214,56): warning C4244:         ]
-D:\test\project\project\源.cpp(244,67): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(244,67): warning C4244:         with
-D:\test\project\project\源.cpp(244,67): warning C4244:         [
-D:\test\project\project\源.cpp(244,67): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(244,67): warning C4244:         ]
-D:\test\project\project\源.cpp(244,45): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(244,45): warning C4244:         with
-D:\test\project\project\源.cpp(244,45): warning C4244:         [
-D:\test\project\project\源.cpp(244,45): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(244,45): warning C4244:         ]
-D:\test\project\project\源.cpp(245,65): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(245,65): warning C4244:         with
-D:\test\project\project\源.cpp(245,65): warning C4244:         [
-D:\test\project\project\源.cpp(245,65): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(245,65): warning C4244:         ]
-D:\test\project\project\源.cpp(245,44): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(245,44): warning C4244:         with
-D:\test\project\project\源.cpp(245,44): warning C4244:         [
-D:\test\project\project\源.cpp(245,44): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(245,44): warning C4244:         ]
-D:\test\project\project\源.cpp(305,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(305,30): warning C4244:         with
-D:\test\project\project\源.cpp(305,30): warning C4244:         [
-D:\test\project\project\源.cpp(305,30): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(305,30): warning C4244:         ]
-D:\test\project\project\源.cpp(305,26): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(305,26): warning C4244:         with
-D:\test\project\project\源.cpp(305,26): warning C4244:         [
-D:\test\project\project\源.cpp(305,26): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(305,26): warning C4244:         ]
-D:\test\project\project\源.cpp(312,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(312,30): warning C4244:         with
-D:\test\project\project\源.cpp(312,30): warning C4244:         [
-D:\test\project\project\源.cpp(312,30): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(312,30): warning C4244:         ]
-D:\test\project\project\源.cpp(312,26): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(312,26): warning C4244:         with
-D:\test\project\project\源.cpp(312,26): warning C4244:         [
-D:\test\project\project\源.cpp(312,26): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(312,26): warning C4244:         ]
-D:\test\project\project\源.cpp(317,67): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(317,67): warning C4244:         with
-D:\test\project\project\源.cpp(317,67): warning C4244:         [
-D:\test\project\project\源.cpp(317,67): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(317,67): warning C4244:         ]
-D:\test\project\project\源.cpp(317,45): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(317,45): warning C4244:         with
-D:\test\project\project\源.cpp(317,45): warning C4244:         [
-D:\test\project\project\源.cpp(317,45): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(317,45): warning C4244:         ]
-D:\test\project\project\源.cpp(318,65): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(318,65): warning C4244:         with
-D:\test\project\project\源.cpp(318,65): warning C4244:         [
-D:\test\project\project\源.cpp(318,65): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(318,65): warning C4244:         ]
-D:\test\project\project\源.cpp(318,44): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
-D:\test\project\project\源.cpp(318,44): warning C4244:         with
-D:\test\project\project\源.cpp(318,44): warning C4244:         [
-D:\test\project\project\源.cpp(318,44): warning C4244:             _Tp=int
-D:\test\project\project\源.cpp(318,44): warning C4244:         ]
+﻿  main.cpp
+D:\test\project\project\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\test\project\project\main.cpp(125,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(125,30): warning C4244:         with
+D:\test\project\project\main.cpp(125,30): warning C4244:         [
+D:\test\project\project\main.cpp(125,30): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(125,30): warning C4244:         ]
+D:\test\project\project\main.cpp(125,26): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(125,26): warning C4244:         with
+D:\test\project\project\main.cpp(125,26): warning C4244:         [
+D:\test\project\project\main.cpp(125,26): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(125,26): warning C4244:         ]
+D:\test\project\project\main.cpp(132,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(132,30): warning C4244:         with
+D:\test\project\project\main.cpp(132,30): warning C4244:         [
+D:\test\project\project\main.cpp(132,30): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(132,30): warning C4244:         ]
+D:\test\project\project\main.cpp(132,26): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(132,26): warning C4244:         with
+D:\test\project\project\main.cpp(132,26): warning C4244:         [
+D:\test\project\project\main.cpp(132,26): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(132,26): warning C4244:         ]
+D:\test\project\project\main.cpp(137,67): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(137,67): warning C4244:         with
+D:\test\project\project\main.cpp(137,67): warning C4244:         [
+D:\test\project\project\main.cpp(137,67): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(137,67): warning C4244:         ]
+D:\test\project\project\main.cpp(137,45): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(137,45): warning C4244:         with
+D:\test\project\project\main.cpp(137,45): warning C4244:         [
+D:\test\project\project\main.cpp(137,45): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(137,45): warning C4244:         ]
+D:\test\project\project\main.cpp(138,65): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(138,65): warning C4244:         with
+D:\test\project\project\main.cpp(138,65): warning C4244:         [
+D:\test\project\project\main.cpp(138,65): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(138,65): warning C4244:         ]
+D:\test\project\project\main.cpp(138,44): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(138,44): warning C4244:         with
+D:\test\project\project\main.cpp(138,44): warning C4244:         [
+D:\test\project\project\main.cpp(138,44): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(138,44): warning C4244:         ]
+D:\test\project\project\main.cpp(194,34): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(194,34): warning C4244:         with
+D:\test\project\project\main.cpp(194,34): warning C4244:         [
+D:\test\project\project\main.cpp(194,34): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(194,34): warning C4244:         ]
+D:\test\project\project\main.cpp(194,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(194,30): warning C4244:         with
+D:\test\project\project\main.cpp(194,30): warning C4244:         [
+D:\test\project\project\main.cpp(194,30): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(194,30): warning C4244:         ]
+D:\test\project\project\main.cpp(201,34): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(201,34): warning C4244:         with
+D:\test\project\project\main.cpp(201,34): warning C4244:         [
+D:\test\project\project\main.cpp(201,34): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(201,34): warning C4244:         ]
+D:\test\project\project\main.cpp(201,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(201,30): warning C4244:         with
+D:\test\project\project\main.cpp(201,30): warning C4244:         [
+D:\test\project\project\main.cpp(201,30): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(201,30): warning C4244:         ]
+D:\test\project\project\main.cpp(214,77): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(214,77): warning C4244:         with
+D:\test\project\project\main.cpp(214,77): warning C4244:         [
+D:\test\project\project\main.cpp(214,77): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(214,77): warning C4244:         ]
+D:\test\project\project\main.cpp(214,56): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(214,56): warning C4244:         with
+D:\test\project\project\main.cpp(214,56): warning C4244:         [
+D:\test\project\project\main.cpp(214,56): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(214,56): warning C4244:         ]
+D:\test\project\project\main.cpp(244,67): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(244,67): warning C4244:         with
+D:\test\project\project\main.cpp(244,67): warning C4244:         [
+D:\test\project\project\main.cpp(244,67): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(244,67): warning C4244:         ]
+D:\test\project\project\main.cpp(244,45): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(244,45): warning C4244:         with
+D:\test\project\project\main.cpp(244,45): warning C4244:         [
+D:\test\project\project\main.cpp(244,45): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(244,45): warning C4244:         ]
+D:\test\project\project\main.cpp(245,65): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(245,65): warning C4244:         with
+D:\test\project\project\main.cpp(245,65): warning C4244:         [
+D:\test\project\project\main.cpp(245,65): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(245,65): warning C4244:         ]
+D:\test\project\project\main.cpp(245,44): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(245,44): warning C4244:         with
+D:\test\project\project\main.cpp(245,44): warning C4244:         [
+D:\test\project\project\main.cpp(245,44): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(245,44): warning C4244:         ]
+D:\test\project\project\main.cpp(305,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(305,30): warning C4244:         with
+D:\test\project\project\main.cpp(305,30): warning C4244:         [
+D:\test\project\project\main.cpp(305,30): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(305,30): warning C4244:         ]
+D:\test\project\project\main.cpp(305,26): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(305,26): warning C4244:         with
+D:\test\project\project\main.cpp(305,26): warning C4244:         [
+D:\test\project\project\main.cpp(305,26): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(305,26): warning C4244:         ]
+D:\test\project\project\main.cpp(312,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(312,30): warning C4244:         with
+D:\test\project\project\main.cpp(312,30): warning C4244:         [
+D:\test\project\project\main.cpp(312,30): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(312,30): warning C4244:         ]
+D:\test\project\project\main.cpp(312,26): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(312,26): warning C4244:         with
+D:\test\project\project\main.cpp(312,26): warning C4244:         [
+D:\test\project\project\main.cpp(312,26): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(312,26): warning C4244:         ]
+D:\test\project\project\main.cpp(317,67): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(317,67): warning C4244:         with
+D:\test\project\project\main.cpp(317,67): warning C4244:         [
+D:\test\project\project\main.cpp(317,67): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(317,67): warning C4244:         ]
+D:\test\project\project\main.cpp(317,45): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(317,45): warning C4244:         with
+D:\test\project\project\main.cpp(317,45): warning C4244:         [
+D:\test\project\project\main.cpp(317,45): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(317,45): warning C4244:         ]
+D:\test\project\project\main.cpp(318,65): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(318,65): warning C4244:         with
+D:\test\project\project\main.cpp(318,65): warning C4244:         [
+D:\test\project\project\main.cpp(318,65): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(318,65): warning C4244:         ]
+D:\test\project\project\main.cpp(318,44): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+D:\test\project\project\main.cpp(318,44): warning C4244:         with
+D:\test\project\project\main.cpp(318,44): warning C4244:         [
+D:\test\project\project\main.cpp(318,44): warning C4244:             _Tp=int
+D:\test\project\project\main.cpp(318,44): warning C4244:         ]
   project.vcxproj -> D:\test\project\x64\Debug\project.exe

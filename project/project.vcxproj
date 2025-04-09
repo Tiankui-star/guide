@@ -135,7 +135,7 @@
     <ClCompile Include="building.cpp" />
     <ClCompile Include="function.cpp" />
     <ClCompile Include="test.cpp" />
-    <ClCompile Include="源.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="building.h" />
